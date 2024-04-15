@@ -31,3 +31,17 @@ We're thrilled to announce a major update for our Discord bot, packed with new f
 Stay tuned for more exciting updates and new features in our next patch! We're continuously working to improve your experience with our bot.
 
 Thank you for using our Discord bot. Enjoy the new features! 🎉
+
+
+
+## 🚀 New Update: Version 1.01 Released! 🎉
+
+### New Commands Added:
+
+#### Utility Commands:
+- **/invite** 💌: Want our bot in your server? Simply use this command and bring our bot's features to your community!
+
+#### Moderation Commands:
+- **/change-nickname** 🔧: Need to tweak a user's nickname? This command lets you update nicknames hassle-free.
+
+Enhance your server's functionality with these exciting new commands! Invite our bot now to get started. #UtilityCommands #ModerationCommands #NewFeatures
