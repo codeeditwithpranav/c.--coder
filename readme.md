@@ -39,9 +39,9 @@ Thank you for using our Discord bot. Enjoy the new features! 🎉
 ### New Commands Added:
 
 #### Utility Commands:
-- **/invite** 💌: Want our bot in your server? Simply use this command and bring our bot's features to your community!
+- **`/invite`** 💌: Want our bot in your server? Simply use this command and bring our bot's features to your community!
 
 #### Moderation Commands:
-- **/change-nickname** 🔧: Need to tweak a user's nickname? This command lets you update nicknames hassle-free.
+- **`/change-nickname`** 🔧: Need to tweak a user's nickname? This command lets you update nicknames hassle-free.
 
 Enhance your server's functionality with these exciting new commands! Invite our bot now to get started. #UtilityCommands #ModerationCommands #NewFeatures
